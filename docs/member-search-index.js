@@ -1,0 +1,1 @@
+var memberSearchIndex = [{"p":"com.newapp.dokkatestapp","c":"ExampleInstrumentedTest","l":"ExampleInstrumentedTest()","url":"com/newapp/dokkatestapp/ExampleInstrumentedTest.html#ExampleInstrumentedTest()"}, {"p":"com.newapp.dokkatestapp","c":"ExampleInstrumentedTest","l":"useAppContext()","url":"com/newapp/dokkatestapp/ExampleInstrumentedTest.html#useAppContext()"}]
